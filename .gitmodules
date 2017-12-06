@@ -1,0 +1,6 @@
+[submodule "lib/arduinoWebSockets"]
+	path = lib/arduinoWebSockets
+	url = https://github.com/Azaran/arduinoWebSockets.git
+[submodule "lib/mqtt-websocket-mcu"]
+	path = lib/mqtt-websocket-mcu
+	url = https://github.com/Azaran/mqtt-websocket-mcu.git
